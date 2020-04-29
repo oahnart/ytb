@@ -83,6 +83,7 @@ class ProductController extends Controller
     public function getDeleteProduct($id)
     {
         Product::destroy($id);
+        $product= Product::find($id);
         return back();
     }
 }
