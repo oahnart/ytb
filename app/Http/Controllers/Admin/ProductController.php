@@ -80,7 +80,7 @@ class ProductController extends Controller
 
     }
 
-    public function getDeleteProduct($id)
+    public function getDeleteProduct(Request $request,$id)
     {
         Product::destroy($id);
         $category= Category::find($id);
