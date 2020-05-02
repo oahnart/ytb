@@ -12,7 +12,7 @@
             <div class="col-xs-12 col-md-12 col-lg-12">
 
                 <div class="panel panel-primary">
-                    <div class="panel-heading">Thêm sản phẩm</div>
+                    <div class="panel-heading">Thêm sản phẩm master</div>
                     <div class="panel-body">
                         @include('errors.note')
                         <form method="post" enctype="multipart/form-data">
