@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="6e976b35-7aed-47c0-a11b-d94e89ae6020" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ProductController.php" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6e976b35-7aed-47c0-a11b-d94e89ae6020" name="Default Changelist" comment="" />
+>>>>>>> master
 =======
     <list default="true" id="6e976b35-7aed-47c0-a11b-d94e89ae6020" name="Default Changelist" comment="" />
 >>>>>>> master
@@ -29,8 +33,13 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ProductController.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="398">
               <caret line="84" column="30" lean-forward="true" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+=======
+            <state relative-caret-position="368">
+              <caret line="82" column="41" lean-forward="true" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+>>>>>>> master
 =======
             <state relative-caret-position="368">
               <caret line="82" column="41" lean-forward="true" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
@@ -347,7 +356,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="21548000" />
+=======
+    <option name="totallyTimeSpent" value="19989000" />
+>>>>>>> master
 =======
     <option name="totallyTimeSpent" value="19989000" />
 >>>>>>> master
